@@ -18,7 +18,6 @@ Analisis difokuskan untuk menjawab beberapa pertanyaan berikut:
 4. Bagaimana hubungan antara discount dan profit?
 5. Apakah diskon yang lebih besar benar-benar diikuti oleh volume penjualan yang lebih tinggi?
 6. Bagaimana tingkat urgentsi jika dilihat dari trend waktu?
-7. Kebijakan apa yang dapat diterapkan untuk meningkatkan profitabilitas?
 
 ---
 

@@ -82,14 +82,14 @@ Analisis difokuskan untuk menjawab beberapa pertanyaan berikut:
 3. Apa yang menyebabkan profit Region Central relatif rendah?
 4. Bagaimana hubungan antara discount dan profit?
 5. Apakah diskon yang lebih besar benar-benar diikuti oleh volume penjualan yang lebih tinggi?
-6. Bagaimana tren profit setiap region dari waktu ke waktu?
+6. Bagaimana tingkat urgentsi jika dilihat dari trend waktu?
 7. Kebijakan apa yang dapat diterapkan untuk meningkatkan profitabilitas?
 
 ---
 
 ## Analysis & Discussion
 
-### 1. Sales Performance by Region
+### 1. Bagaimana performa penjualan pada setiap region?
 
 Total penjualan seluruh dataset mencapai sekitar **$2.30 juta**.
 
@@ -108,7 +108,7 @@ Namun, sales yang tinggi belum tentu berarti region tersebut memiliki profitabil
 
 ---
 
-### 2. Profitability by Region
+### 2. Region mana yang memiliki profit margin tertinggi dan terendah?
 
 | Region | Profit | Profit Margin |
 |---|---:|---:|
@@ -125,7 +125,7 @@ Artinya, persoalan Central bukan sekadar kemampuan menghasilkan penjualan, tetap
 
 ---
 
-### 3. Why Is Central's Profit Low?
+### 3. Apa yang menyebabkan profit Region Central relatif rendah?
 
 Analisis profit berdasarkan kategori menunjukkan:
 
@@ -143,7 +143,7 @@ Dengan demikian, masalah Central lebih tepat dipandang sebagai **masalah profita
 
 ---
 
-### 4. Discount vs Profit
+### 4. Bagaimana hubungan antara discount dan profit?
 
 Pola pada dataset menunjukkan bahwa profit memburuk ketika discount semakin tinggi.
 
@@ -177,7 +177,7 @@ Namun, hasil ini harus dibaca sebagai **hubungan/asosiasi**, bukan bukti kausali
 
 ---
 
-### 5. Does a Bigger Discount Mean More Sales?
+### 5. Apakah diskon yang lebih besar benar-benar diikuti oleh volume penjualan yang lebih tinggi?
 
 Data tidak menunjukkan bahwa penjualan hanya dapat didorong dengan diskon besar.
 
@@ -187,7 +187,7 @@ Ini menjadi sinyal bahwa perusahaan berpotensi mengurangi ketergantungan pada ag
 
 ---
 
-### 6. Profit Trend
+### 6. Bagaimana tingkat urgentsi jika dilihat dari trend waktu?
 
 Performa tahunan menunjukkan perbedaan tren yang cukup jelas antarregion.
 
@@ -204,52 +204,12 @@ Hal ini menunjukkan bahwa strategi tidak sebaiknya disamaratakan untuk semua reg
 
 ---
 
-## Key Insights
-
-1. **West adalah region dengan performa paling kuat**, dengan kontribusi sales 31.58% dan profit margin sekitar 14.94%.
-
-2. **Central merupakan region dengan profit margin terendah**, hanya sekitar 7.92%, meskipun kontribusi sales-nya mencapai 21.82%.
-
-3. **Furniture menjadi sumber utama masalah profitabilitas di Central**, dengan total profit sekitar **-$2.87K**.
-
-4. **Diskon tinggi berkaitan erat dengan kerugian.** Pada dataset ini, level diskon 30% sampai 80% menghasilkan profit agregat negatif.
-
-5. **Diskon besar tidak terbukti menjadi satu-satunya pendorong penjualan.** Sebagian besar transaksi masih terkonsentrasi pada tingkat diskon rendah.
-
-6. **Masalah Central bukan terutama rendahnya sales, tetapi rendahnya kualitas profit dari sales tersebut.**
-
-7. **Kinerja antarregion mulai semakin berbeda pada 2017.** West dan East tumbuh kuat, sedangkan Central dan South mengalami penurunan profit.
-
----
-
 ## Recommendations
 
 ### 1. Review Discount Policy
 
-Jangan menggunakan **30% sebagai batas maksimum yang otomatis dianggap aman**, karena pada data ini diskon tepat 30% sudah menghasilkan profit agregat negatif.
-
-Pendekatan yang lebih aman adalah:
-
 - menjadikan **discount di bawah 30% sebagai default policy**;
-- menetapkan batas diskon berdasarkan kategori dan margin produk;
-- mewajibkan approval tambahan untuk discount tinggi;
 - mengevaluasi profit setelah discount, bukan hanya peningkatan sales.
-
----
-
-### 2. Prioritize Central Furniture
-
-Furniture di Central perlu menjadi prioritas evaluasi karena merupakan satu-satunya kombinasi kategori-region yang menghasilkan kerugian dalam analisis utama.
-
-Perusahaan perlu mengevaluasi:
-
-- struktur harga;
-- tingkat discount;
-- product mix;
-- margin per produk;
-- produk yang paling sering menghasilkan negative profit.
-
-Produk dengan volume tinggi tetapi profit negatif sebaiknya tidak otomatis dianggap sebagai produk berkinerja baik.
 
 ---
 
@@ -265,44 +225,6 @@ Daripada memberikan diskon besar secara luas, perusahaan dapat menggunakan promo
 - discount terbatas hanya untuk SKU tertentu.
 
 Tujuannya adalah menjaga daya tarik promosi tanpa mengorbankan margin secara berlebihan.
-
----
-
-### 4. Monitor Profit Margin as a Primary KPI
-
-Sales sebaiknya tidak digunakan sebagai satu-satunya indikator performa.
-
-Dashboard manajemen sebaiknya memonitor:
-
-- Sales
-- Profit
-- Profit Margin
-- Discount
-- Quantity
-- Average Order Value
-- Negative-profit transactions
-- Profit by Region
-- Profit by Category/Sub-Category
-
-Dengan pendekatan ini, perusahaan dapat membedakan antara **growth yang sehat** dan **growth yang hanya meningkatkan revenue tetapi menekan profit**.
-
----
-
-### 5. Investigate Before Making Causal Decisions
-
-Analisis ini menunjukkan pola yang kuat antara diskon tinggi dan profit negatif, tetapi belum membuktikan bahwa discount adalah satu-satunya penyebab kerugian.
-
-Analisis lanjutan disarankan untuk mengontrol faktor lain seperti:
-
-- category dan sub-category;
-- harga produk;
-- quantity;
-- customer segment;
-- region;
-- shipping mode;
-- seasonal effect.
-
-Tahap berikutnya dapat menggunakan analisis statistik atau model regresi untuk mengukur seberapa besar pengaruh discount terhadap profit setelah faktor lain dikendalikan.
 
 ---
 

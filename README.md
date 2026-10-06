@@ -202,7 +202,7 @@ Hal ini menunjukkan bahwa strategi tidak sebaiknya disamaratakan untuk semua reg
 
 ---
 
-## Conclusion
+## Kesimpulan
 
 
 Analisis menunjukkan bahwa tingginya penjualan tidak selalu menghasilkan profitabilitas yang tinggi. West dan East memiliki performa yang relatif kuat, sedangkan Central menghadapi masalah profitabilitas yang terutama terlihat pada kategori Furniture.
@@ -211,7 +211,7 @@ Diskon menjadi salah satu variabel penting yang perlu diawasi. Pada data ini, ti
 
 ---
 
-## Recommendations
+## Recommendasi
 
 
 ### 1. Review Discount Policy
@@ -257,3 +257,5 @@ Tujuannya adalah menjaga daya tarik promosi tanpa mengorbankan margin secara ber
 - `Data Storytelling & Analysis.pbix` - dashboard dan visualisasi Power BI.
 - `Data Storytelling.pdf` - presentasi hasil analisis dan storytelling.
 
+## Kontak
+https://www.linkedin.com/in/irwanls/

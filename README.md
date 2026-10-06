@@ -8,9 +8,23 @@ Analisis dilakukan menggunakan **Python (Pandas & Jupyter Notebook)** untuk pros
 
 ---
 
+## Business Questions
+
+Analisis difokuskan untuk menjawab beberapa pertanyaan berikut:
+
+1. Bagaimana performa penjualan pada setiap region?
+2. Region mana yang memiliki profit margin tertinggi dan terendah?
+3. Apa yang menyebabkan profit Region Central relatif rendah?
+4. Bagaimana hubungan antara discount dan profit?
+5. Apakah diskon yang lebih besar benar-benar diikuti oleh volume penjualan yang lebih tinggi?
+6. Bagaimana tingkat urgentsi jika dilihat dari trend waktu?
+7. Kebijakan apa yang dapat diterapkan untuk meningkatkan profitabilitas?
+
+---
+
 ## Data Source
 
-Dataset yang digunakan adalah **Sample - Superstore**, yaitu dataset retail contoh yang digunakan dalam ekosistem Tableau untuk pembelajaran dan eksplorasi data.
+Dataset didapat dari https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data.
 
 Karakteristik data yang digunakan dalam project:
 
@@ -70,20 +84,6 @@ Outlier yang terdeteksi dengan metode IQR:
 Outlier tidak langsung dihapus karena nilai ekstrem pada transaksi retail dapat merepresentasikan transaksi besar, diskon tinggi, atau kerugian yang benar-benar terjadi. Menghapus seluruh outlier berpotensi menghilangkan informasi bisnis yang justru penting dalam analisis profitabilitas.
 
 Secara struktural, dataset memiliki kualitas yang baik karena tidak ditemukan missing value maupun duplikasi. Tantangan utama bukan pada kelengkapan data, tetapi pada variasi nilai transaksi dan keberadaan transaksi dengan profit negatif.
-
----
-
-## Business Questions
-
-Analisis difokuskan untuk menjawab beberapa pertanyaan berikut:
-
-1. Bagaimana performa penjualan pada setiap region?
-2. Region mana yang memiliki profit margin tertinggi dan terendah?
-3. Apa yang menyebabkan profit Region Central relatif rendah?
-4. Bagaimana hubungan antara discount dan profit?
-5. Apakah diskon yang lebih besar benar-benar diikuti oleh volume penjualan yang lebih tinggi?
-6. Bagaimana tingkat urgentsi jika dilihat dari trend waktu?
-7. Kebijakan apa yang dapat diterapkan untuk meningkatkan profitabilitas?
 
 ---
 

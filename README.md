@@ -6,6 +6,7 @@ Project ini menganalisis performa penjualan dan profitabilitas **Superstore** be
 
 Analisis dilakukan menggunakan **Python (Pandas & Jupyter Notebook)** untuk proses data understanding dan data quality checking, kemudian **Power BI** digunakan untuk visualisasi dan data storytelling.
 
+---
 
 ## Business Questions
 

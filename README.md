@@ -86,6 +86,8 @@ Secara struktural, dataset memiliki kualitas yang baik karena tidak ditemukan mi
 
 ## Analisis 
 
+---
+
 ### 1. Bagaimana performa penjualan pada setiap region?
 
 Total penjualan seluruh dataset mencapai sekitar **$2.30 juta**.
@@ -210,6 +212,8 @@ Diskon menjadi salah satu variabel penting yang perlu diawasi. Pada data ini, ti
 ---
 
 ## Recommendations
+
+---
 
 ### 1. Review Discount Policy
 

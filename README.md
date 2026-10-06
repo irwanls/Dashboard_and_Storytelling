@@ -16,4 +16,5 @@ Fokus analisis dalam project ini meliputi:
 - Mengidentifikasi pola dan insight yang dapat digunakan sebagai dasar dalam menentukan strategi diskon yang lebih optimal.
 
 Output akhir dari project ini berupa dashboard interaktif untuk memantau indikator performa utama serta data storytelling yang menjelaskan temuan utama, permasalahan bisnis, dan insight yang diperoleh dari hasil analisis.
+
 Tools: Python, Power BI

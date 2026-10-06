@@ -207,14 +207,14 @@ Analisis menunjukkan bahwa tingginya penjualan tidak selalu menghasilkan profita
 
 Diskon menjadi salah satu variabel penting yang perlu diawasi. Pada data ini, tingkat discount 30% atau lebih berkaitan dengan profit agregat negatif. Oleh karena itu, perusahaan sebaiknya tidak hanya mengejar peningkatan volume penjualan, tetapi memastikan setiap strategi promosi tetap menghasilkan **profitable growth**.
 
+---
+
 ## Recommendations
 
 ### 1. Review Discount Policy
 
 - menjadikan **discount di bawah 30% sebagai default policy**;
 - mengevaluasi profit setelah discount, bukan hanya peningkatan sales.
-
----
 
 ### 2. Mengganti penggunaan discount dengan strategi marketing yang lain
 

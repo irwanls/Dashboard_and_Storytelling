@@ -236,11 +236,9 @@ Tujuannya adalah menjaga daya tarik promosi tanpa mengorbankan margin secara ber
 
 ## Tools
 
-- **Python**
-- **Pandas**
-- **Jupyter Notebook**
+- **Jupyter Notebook (Python)**
 - **Power BI**
-- **Microsoft PowerPoint / PDF** untuk data storytelling
+- **Microsoft PowerPoint**
 
 ---
 

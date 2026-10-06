@@ -41,8 +41,6 @@ Karakteristik data yang digunakan dalam project:
 
 Dataset mencakup informasi transaksi seperti `Order Date`, `Ship Date`, `Customer`, `Region`, `Category`, `Sales`, `Quantity`, `Discount`, dan `Profit`.
 
-> **Catatan:** Studi kasus Matahari Department Store pada bagian problem statement digunakan sebagai konteks bisnis mengenai perbedaan performa antarwilayah. Data transaksi yang dianalisis dalam project ini bukan data Matahari, melainkan Sample - Superstore.
-
 ---
 
 ## Data Quality

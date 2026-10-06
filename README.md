@@ -87,7 +87,7 @@ Secara struktural, dataset memiliki kualitas yang baik karena tidak ditemukan mi
 
 ---
 
-## Analysis & Discussion
+## Analysis 
 
 ### 1. Bagaimana performa penjualan pada setiap region?
 

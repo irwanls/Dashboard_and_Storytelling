@@ -202,7 +202,9 @@ Pada 2017, **West dan East mengalami peningkatan profit yang kuat**, sedangkan *
 Hal ini menunjukkan bahwa strategi tidak sebaiknya disamaratakan untuk semua region. Central dan South membutuhkan evaluasi yang lebih spesifik, sedangkan praktik yang berhasil di West dan East dapat dijadikan benchmark untuk dianalisis lebih lanjut.
 
 ---
+
 ## Conclusion
+
 ---
 
 Analisis menunjukkan bahwa tingginya penjualan tidak selalu menghasilkan profitabilitas yang tinggi. West dan East memiliki performa yang relatif kuat, sedangkan Central menghadapi masalah profitabilitas yang terutama terlihat pada kategori Furniture.
@@ -260,4 +262,3 @@ Tujuannya adalah menjaga daya tarik promosi tanpa mengorbankan margin secara ber
 - `Data Storytelling & Analysis.pbix` - dashboard dan visualisasi Power BI.
 - `Data Storytelling.pdf` - presentasi hasil analisis dan storytelling.
 
----

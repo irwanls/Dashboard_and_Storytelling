@@ -86,7 +86,6 @@ Secara struktural, dataset memiliki kualitas yang baik karena tidak ditemukan mi
 
 ## Analisis 
 
----
 
 ### 1. Bagaimana performa penjualan pada setiap region?
 
@@ -205,7 +204,6 @@ Hal ini menunjukkan bahwa strategi tidak sebaiknya disamaratakan untuk semua reg
 
 ## Conclusion
 
----
 
 Analisis menunjukkan bahwa tingginya penjualan tidak selalu menghasilkan profitabilitas yang tinggi. West dan East memiliki performa yang relatif kuat, sedangkan Central menghadapi masalah profitabilitas yang terutama terlihat pada kategori Furniture.
 
@@ -215,7 +213,6 @@ Diskon menjadi salah satu variabel penting yang perlu diawasi. Pada data ini, ti
 
 ## Recommendations
 
----
 
 ### 1. Review Discount Policy
 

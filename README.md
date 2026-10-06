@@ -203,6 +203,12 @@ Pada 2017, **West dan East mengalami peningkatan profit yang kuat**, sedangkan *
 Hal ini menunjukkan bahwa strategi tidak sebaiknya disamaratakan untuk semua region. Central dan South membutuhkan evaluasi yang lebih spesifik, sedangkan praktik yang berhasil di West dan East dapat dijadikan benchmark untuk dianalisis lebih lanjut.
 
 ---
+## Conclusion
+---
+
+Analisis menunjukkan bahwa tingginya penjualan tidak selalu menghasilkan profitabilitas yang tinggi. West dan East memiliki performa yang relatif kuat, sedangkan Central menghadapi masalah profitabilitas yang terutama terlihat pada kategori Furniture.
+
+Diskon menjadi salah satu variabel penting yang perlu diawasi. Pada data ini, tingkat discount 30% atau lebih berkaitan dengan profit agregat negatif. Oleh karena itu, perusahaan sebaiknya tidak hanya mengejar peningkatan volume penjualan, tetapi memastikan setiap strategi promosi tetap menghasilkan **profitable growth**.
 
 ## Recommendations
 
@@ -213,7 +219,7 @@ Hal ini menunjukkan bahwa strategi tidak sebaiknya disamaratakan untuk semua reg
 
 ---
 
-### 3. Replace Blanket Discounts with Targeted Promotions
+### 2. Mengganti penggunaan discount dengan strategi marketing yang lain
 
 Daripada memberikan diskon besar secara luas, perusahaan dapat menggunakan promosi yang lebih terarah seperti:
 
@@ -254,11 +260,3 @@ Tujuannya adalah menjaga daya tarik promosi tanpa mengorbankan margin secara ber
 - `Data Storytelling.pdf` - presentasi hasil analisis dan storytelling.
 
 ---
-
-## Conclusion
-
-Analisis menunjukkan bahwa tingginya penjualan tidak selalu menghasilkan profitabilitas yang tinggi. West dan East memiliki performa yang relatif kuat, sedangkan Central menghadapi masalah profitabilitas yang terutama terlihat pada kategori Furniture.
-
-Diskon menjadi salah satu variabel penting yang perlu diawasi. Pada data ini, tingkat discount 30% atau lebih berkaitan dengan profit agregat negatif. Oleh karena itu, perusahaan sebaiknya tidak hanya mengejar peningkatan volume penjualan, tetapi memastikan setiap strategi promosi tetap menghasilkan **profitable growth**.
-
-Fokus utama rekomendasi adalah memperketat kebijakan discount, memperbaiki profitabilitas Furniture di Central, menggunakan promosi yang lebih terarah, dan menjadikan profit margin sebagai KPI utama dalam pengambilan keputusan.

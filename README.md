@@ -259,4 +259,5 @@ Tujuannya adalah menjaga daya tarik promosi tanpa mengorbankan margin secara ber
 
 ## Kontak
 [**Linkedin**](https://www.linkedin.com/in/irwanls/)
-[WhatsApp](https://wa.me/6285363679097)
+
+[**WhatsApp**](https://wa.me/6285363679097)

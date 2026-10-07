@@ -258,4 +258,5 @@ Tujuannya adalah menjaga daya tarik promosi tanpa mengorbankan margin secara ber
 - `Data Storytelling.pdf` - presentasi hasil analisis dan storytelling.
 
 ## Kontak
-https://www.linkedin.com/in/irwanls/
+[**Linkedin**](https://www.linkedin.com/in/irwanls/)
+[WhatsApp](https://wa.me/6285363679097)

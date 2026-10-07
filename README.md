@@ -23,7 +23,7 @@ Analisis difokuskan untuk menjawab beberapa pertanyaan berikut:
 
 ## Data Source
 
-Dataset didapat dari [**Superstore Dataset**](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data).
+Dataset didapat dari [**Superstore Dataset**](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data)
 
 Karakteristik data yang digunakan dalam project:
 
